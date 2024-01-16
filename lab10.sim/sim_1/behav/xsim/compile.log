@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/enriq/OneDrive/Desktop/lab10/lab10.srcs/sources_1/new/lab10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zm_8
+INFO: [VRFC 10-311] analyzing module sas_8
+INFO: [VRFC 10-311] analyzing module sm_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/enriq/OneDrive/Desktop/lab10/lab10.srcs/sim_1/new/tb_sm_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sm_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/enriq/OneDrive/Desktop/lab10/lab10.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
